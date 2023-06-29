@@ -1,4 +1,4 @@
-# EvalOCL (Still under construction-- will be ready before May End)
+# EvalOCL (still under construction)
 
 
 This repository contains the code for the paper:
