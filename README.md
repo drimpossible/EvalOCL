@@ -1,5 +1,4 @@
-# EvalOCL (still under construction)
-
+# EvalOCL
 
 This repository contains the code for the paper:
 
@@ -23,8 +22,8 @@ pip3 install -r requirements.txt
 
 ## Usage
 
-## Replicating Results
-
+* Download the ordering files required from [this repository](https://huggingface.co/datasets/hammh0a/RapidAdaptation) into `opt.order_file_dir`	per dataset.
+* 
 
 
 ##### If you discover any bugs in the code please contact me, I will cross-check them with my nightmares.
